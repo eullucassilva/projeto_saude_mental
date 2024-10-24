@@ -1,0 +1,64 @@
+body {
+    bottom: auto;
+    margin: 50px;
+    padding: 50px;
+
+}
+h1{ color:rgb(199, 98, 15);
+    position:center
+
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;  position: fixed;left: 125px;top: 125px;
+    color:rgb(199, 98, 15);
+
+}
+p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color:rgba(1, 6, 32, 0.712);
+    border-color: black;
+
+}
+
+p2{
+    font-size: 25px;
+    position: fixed;left: 80px;top: 70px;
+    
+  
+}
+p1{
+    position: fixed;top: 20px;left: 80px;
+}
+img{ width: 50px ; height: 50px;
+    position:fixed;top: 25px;left: 10px;
+    
+}
+
+
+header {
+    background-color: #f0f0f0;
+    padding: 3px;
+    position:fixed; top: +200px; left: 53%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+button{
+    background-color:#ffdb8a;
+    position:fixed; top: +95%;
+    border-radius: 10px; left: 250px;
+}
+footer{
+    position: fixed; top: 600px; left: 600px;
+    background:top
+}
